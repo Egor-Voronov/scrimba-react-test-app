@@ -1,9 +1,10 @@
 import { useState } from 'react'
+import { CardsWrapper } from './components/CardsWrapper'
 
 function App() {
   return (
     <div className="App">
-      <h1>fdsfsfs</h1>
+     <CardsWrapper />
     </div>
   )
 }
